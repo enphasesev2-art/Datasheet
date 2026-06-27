@@ -1,0 +1,777 @@
+Site ID,Issue,Residential/Lease
+576034,False Alarm,Residential
+4630388,3rd Party PV,Residential
+5916433,CCT Wiring Issue,Lease
+3631603,Mirroring Issue,Lease
+4600046,PCT Misbranch,Residential
+6182471,PCT Misbranch,Residential
+6289355,Reverse Polarity Issue,Lease
+5567058,PCT Misbranch,Residential
+5686755,PCT Misbranch,Residential
+5938590,False Alarm,Lease
+939138,PCT Misbranch,Residential
+5958050,3rd Party PV,Lease
+2689379,3rd Party PV,Residential
+1886304,False Alarm,Residential
+5733221,PCT Misbranch,Residential
+5762469,PCT Misbranch,Residential
+6138067,Battery issue,Lease
+4336902,PCT Misbranch,Residential
+5945513,3rd Party PV,Lease
+1456762,PCT Misbranch,Residential
+5511611,3rd Party PV,Lease
+5834029,PCT Misbranch,Lease
+5098201,PCT Misbranch,Residential
+5858735,PCT Misbranch,Lease
+5004950,3rd Party PV,Residential
+5761081,3rd Party PV,Lease
+6252408,Gateway Issue,Lease
+3987877,Reverse Polarity Issue,Residential
+5977548,Production issue,Lease
+5438761,3rd Party PV,Lease
+2565318,PCT Misbranch,Residential
+5242425,PCT Misbranch,Residential
+5467650,Production issue,Residential
+6084815,3rd Party PV,Lease
+5995390,3rd Party PV,Residential
+5909921,PCT Misbranch,Residential
+6056905,Production issue,Residential
+6197067,3rd Party PV,Residential
+5315072,3rd Party PV,Residential
+6235702,3rd Party PV,Residential
+1770252,3rd Party PV,Residential
+6312336,3rd Party PV,Residential
+4559009,3rd Party PV,Residential
+2595844,PCT Misbranch,Residential
+5818543,PCT Misbranch,Lease
+6299505,Storage Inactive,Residential
+5906050,PCT Misbranch,Residential
+5918734,PCT Misbranch,Lease
+5711448,PCT Misbranch,Residential
+5763042,PCT Issue,Residential
+2751374,False Alarm,Residential
+5916492,False Alarm,Lease
+5666340,Mirroring Issue,Lease
+6319282,Storage Inactive,Residential
+2657288,3rd Party PV,Lease
+6318989,Storage Inactive,Lease
+6287900,False Alarm,Lease
+6196624,Storage Inactive,Residential
+5986339,PCT Misbranch,Residential
+4662312,False Alarm,Residential
+5663964,CCT Wiring Issue,Lease
+2699730,Storage Inactive,Residential
+5870774,3rd Party PV,Lease
+5950019,Configuration issue,Lease
+5664086,PCT Misbranch,Residential
+5214466,PCT Misbranch,Lease
+6086453,PCT Misbranch,Residential
+6310956,3rd Party PV,Lease
+4571102,3rd Party PV,Residential
+5100952,PCT Misbranch,Lease
+5373736,3rd Party PV,Residential
+5556996,PCT Misbranch,Residential
+5566732,Mirroring Issue,Residential
+5403434,Battery issue,Residential
+2760816,PCT Misbranch,Residential
+2699746,PCT Misbranch,Residential
+6040270,3rd Party PV,Residential
+3403976,Normal,Residential
+6280393,False Alarm,Lease
+5814386,PCT Misbranch,Lease
+4237105,False Alarm,Residential
+3436716,False Alarm,Residential
+5682859,PCT Misbranch,Residential
+5763078,PCT Misbranch,Residential
+1946048,Storage Inactive,Residential
+4592912,CCT Wiring Issue,Residential
+5854988,PCT Misbranch,Residential
+4081841,CCT Wiring Issue,Residential
+5818847,Mirroring Issue,Residential
+6242838,False Alarm,Lease
+1997321,Mirroring Issue,Residential
+2531686,Mirroring Issue,Residential
+5718472,Configuration issue,Lease
+4730650,PCT Misbranch,Residential
+5672929,PCT Misbranch,Residential
+3965581,Microinverter Not Reporting,Residential
+5216326,3rd Party PV,Residential
+2351452,Configuration issue,Residential
+4530218,Configuration issue,Residential
+5367263,Mirroring Issue,Residential
+4531460,Configuration issue,Residential
+5758657,False Alarm,Residential
+6288198,PCT Misbranch,Residential
+2519005,False Alarm,Residential
+3281144,PCT Misbranch,Residential
+5148106,PCT Issue,Lease
+2228755,3rd Party PV,Residential
+6126040,Mirroring Issue,Lease
+6175105,Configuration issue,Lease
+5256442,Configuration issue,Lease
+5881620,Configuration issue,Lease
+5506566,3rd Party PV,Residential
+6019717,CCT Wiring Issue,Lease
+5184244,Storage Inactive,Residential
+6276333,3rd Party PV,Lease
+6275909,Normal,Residential
+5446934,3rd Party PV,Lease
+3694445,Gateway Not Reporting,Residential
+3525322,PCT Misbranch,Residential
+5618358,Mirroring Issue,Lease
+5451877,Configuration issue,Lease
+6050012,Configuration issue,Lease
+6076498,Storage CT Issue,Residential
+5186775,Configuration issue,Lease
+4881305,AI Optimization,Residential
+5595815,3rd Party PV,Lease
+5971466,PCT Misbranch,Lease
+2539823,PCT Misbranch,Residential
+5968623,3rd Party PV,Residential
+5371090,3rd Party PV,Lease
+4637745,Configuration issue,Residential
+4046515,False Alarm,Residential
+3824943,PCT Misbranch,Residential
+5060345,2 GW,Residential
+5443213,Storage Inactive,Lease
+5622119,PCT Misbranch,Residential
+5025017,Production issue,Lease
+1317445,PCT Misbranch,Residential
+3813615,PCT Misbranch,Residential
+1832770,PCT Misbranch,Residential
+5876648,3rd Party PV,Lease
+5463298,PCT Misbranch,Lease
+6275501,Configuration issue,Residential
+5540807,AI Optimization,Lease
+4962420,Mirroring Issue,Lease
+6283998,PCT Misbranch,Lease
+4599757,PCT Misbranch,Residential
+6023997,3rd Party PV,Residential
+5045862,3rd Party PV,Lease
+5021567,PCT Misbranch,Residential
+5407206,3rd Party PV,Residential
+2599739,PCT Misbranch,Residential
+5981261,3rd Party PV,Residential
+706090,PCT Misbranch,Residential
+5235807,3rd Party PV,Residential
+5586875,3rd Party PV,Residential
+4101478,3rd Party PV,Residential
+5822951,3rd Party PV,Residential
+2249302,3rd Party PV,Residential
+4933187,PCT Misbranch,Residential
+5775821,Mirroring Issue,Residential
+6227256,PCT Misbranch,Lease
+5581574,3rd Party PV,Residential
+3768835,PCT Misbranch,Residential
+5898065,3rd Party PV,Residential
+5748076,Dual PV,Residential
+4743001,3rd Party PV,Residential
+4440721,3rd Party PV,Residential
+5616296,PCT Misbranch,Residential
+5384929,3rd Party PV,Lease
+5836709,PCT Misbranch,Lease
+5124847,3rd Party PV,Residential
+5773589,PCT Misbranch,Residential
+5612789,Reverse Polarity Issue,Residential
+5770896,3rd Party PV,Lease
+5177671,PCT Misbranch,Residential
+6293533,CCT Wiring Issue,Lease
+5143925,3rd Party PV,Lease
+5936499,PCT Misbranch,Residential
+3292221,PCT Misbranch,Residential
+6258128,PCT Misbranch,Lease
+6296466,CCT Wiring Issue,Residential
+2250886,3rd Party PV,Residential
+4807196,3rd Party PV,Residential
+2253958,3rd Party PV,Residential
+5943095,3rd Party PV,Lease
+5573430,Dual PV,Lease
+6262743,PCT Misbranch,Residential
+6094606,PCT Misbranch,Residential
+6266653,Mirroring Issue,Lease
+6290475,Configuration issue,Residential
+1747467,PCT Misbranch,Residential
+6105687,3rd Party PV,Residential
+5416480,PCT Misbranch,Residential
+5639973,3rd Party PV,Residential
+5753748,PCT Misbranch,Residential
+4171623,3rd Party PV,Residential
+6041003,Mirroring Issue,Residential
+3538566,3rd Party PV,Residential
+1565242,CCT Wiring Issue,Residential
+1961398,PCT Issue,Residential
+4428450,3rd Party PV,Lease
+4620081,CCT Wiring Issue,Lease
+2371962,PCT Misbranch,Residential
+2350078,Storage Inactive,Residential
+5013624,CCT Wiring Issue,Lease
+5922789,False Alarm,Residential
+1482665,PCT Misbranch,Residential
+3878993,PCT Misbranch,Residential
+6289322,Configuration issue,Lease
+6276335,Dual PV,Lease
+6252761,PCT Misbranch,Residential
+6289453,Reverse Polarity Issue,Residential
+6101475,PCT Misbranch,Residential
+5257521,PCT Misbranch,Residential
+5401032,3rd Party PV,Lease
+5836829,3rd Party PV,Residential
+5964499,Dual PV,Lease
+2700189,3rd Party PV,Lease
+5506664,3rd Party PV,Lease
+1528117,PCT Misbranch,Residential
+4705422,3rd Party PV,Residential
+5825362,PCT Misbranch,Residential
+3482088,PCT Misbranch,Residential
+6262804,CCT Wiring Issue,Residential
+6233293,Configuration issue,Lease
+4046602,CCT Wiring Issue,Residential
+5989688,3rd Party PV,Lease
+4585385,Mirroring Issue,Residential
+6277530,Reverse Polarity Issue,Residential
+2156719,3rd Party PV,Residential
+6271066,3rd Party PV,Lease
+3212703,PCT Misbranch,Residential
+5868832,Storage CT Issue,Lease
+2733988,PCT Misbranch,Residential
+4983447,CCT Wiring Issue,Residential
+5706983,PCT Misbranch,Residential
+1631267,3rd Party PV,Residential
+1320216,2 GW,Residential
+5274481,Wiring Issue,Residential
+5584317,3rd Party PV,Lease
+2556914,PCT Misbranch,Residential
+4067096,Mirroring Issue,Residential
+5492517,Wiring Issue,Residential
+3244799,Configuration issue,Residential
+5541757,PCT Misbranch,Residential
+3698380,Dual PV,Residential
+5461388,3rd Party PV,Lease
+2569512,2 GW,Residential
+6195528,Reverse Polarity Issue,Lease
+5933342,Configuration issue,Residential
+2113288,PCT Misbranch,Residential
+5846322,Dual PV,Residential
+4321696,3rd Party PV,Residential
+5865783,PCT Misbranch,Lease
+5688081,PCT Misbranch,Residential
+6275770,False Alarm,Residential
+6182524,Wiring Issue,Residential
+5118009,PCT Misbranch,Residential
+6022262,PCT Misbranch,Residential
+2530230,Mirroring Issue,Residential
+5885047,3rd Party PV,Residential
+4630198,Mirroring Issue,Residential
+6042871,3rd Party PV,Residential
+5444121,3rd Party PV,Lease
+776554,PCT Misbranch,Residential
+3648273,PCT Misbranch,Residential
+4524540,Storage CT Issue,Lease
+5581431,PCT Misbranch,Residential
+6269353,Configuration issue,Lease
+5963908,Configuration issue,Residential
+6265644,PCT Misbranch,Residential
+6109368,3rd Party PV,Residential
+6265167,Dual PV,Residential
+5678438,3rd Party PV,Residential
+5891052,3rd Party PV,Residential
+5883537,PCT Misbranch,Residential
+6066178,Configuration issue,Lease
+6073250,Mirroring Issue,Residential
+2474568,Storage Inactive,Residential
+3693227,Mirroring Issue,Residential
+4517554,Normal,Residential
+5330140,Dual PV,Lease
+3194923,Mirroring Issue,Residential
+6168782,CCT Wiring Issue,Lease
+4811014,3rd Party PV,Residential
+5962747,Dual PV,Residential
+5803621,3rd Party PV,Lease
+5540779,3rd Party PV,Residential
+1047183,PCT Misbranch,Residential
+2514817,3rd Party PV,Residential
+7804,PCT Misbranch,Residential
+6257769,3rd Party PV,Lease
+4838294,3rd Party PV,Residential
+5027313,Dual PV,Lease
+5955170,False Alarm,Lease
+6261023,Configuration issue,Residential
+3669016,Storage Inactive,Residential
+5104958,Dual PV,Lease
+2859998,PCT Misbranch,Residential
+5232592,3rd Party PV,Residential
+5894587,Mirroring Issue,Lease
+5685511,3rd Party PV,Lease
+3462908,PCT Misbranch,Residential
+2089650,3rd Party PV,Residential
+5135447,Dual PV,Lease
+5758473,3rd Party PV,Residential
+5825880,Configuration issue,Residential
+2714183,PCT Misbranch,Residential
+2509955,PCT Misbranch,Residential
+1526708,2 GW,Residential
+5687983,PCT Misbranch,Residential
+388910,PCT Misbranch,Residential
+1675080,3rd Party PV,Residential
+2588881,Configuration issue,Residential
+4208483,PCT Issue,Residential
+6177643,PCT Misbranch,Residential
+4587822,PCT Misbranch,Lease
+1077703,PCT Misbranch,Residential
+4033435,PCT Misbranch,Residential
+5467634,PCT Misbranch,Lease
+5703220,3rd Party PV,Residential
+3183756,2 GW,Residential
+3420348,PCT Misbranch,Residential
+6068639,3rd Party PV,Residential
+3611282,PCT Misbranch,Residential
+5632373,PCT Misbranch,Residential
+4615939,Wiring Issue,Residential
+4964445,3rd Party PV,Residential
+5704407,Dual PV,Residential
+5891247,3rd Party PV,Residential
+6131872,Wiring Issue,Residential
+1505980,PCT Misbranch,Residential
+5586558,3rd Party PV,Residential
+5469949,3rd Party PV,Lease
+5913745,3rd Party PV,Lease
+5881546,3rd Party PV,Lease
+5629946,Dual PV,Residential
+4853675,3rd Party PV,Lease
+6217970,PCT Misbranch,Residential
+6244700,CCT Wiring Issue,Residential
+6244083,Mirroring Issue,Residential
+3345413,Storage CT Issue,Residential
+3806871,Configuration issue,Residential
+6244744,Mirroring Issue,Lease
+6111430,Reverse Polarity Issue,Residential
+1023019,Configuration issue,Residential
+5308723,3rd Party PV,Residential
+3543183,Storage CT Issue,Residential
+5882529,Mirroring Issue,Residential
+1568900,Mirroring Issue,Residential
+4064971,Configuration issue,Residential
+6240488,3rd Party PV,Residential
+6242972,Wiring Issue,Lease
+6089668,208V System Issue,Lease
+2362971,Mirroring Issue,Residential
+5990644,208V System issue,Lease
+5479045,Dual PV,Lease
+2613366,3rd Party PV,Residential
+2411664,PCT Misbranch,Residential
+6186680,PCT Misbranch,Residential
+6122504,3rd Party PV,Residential
+855282,PCT Misbranch,Residential
+3387606,PCT Misbranch,Residential
+6186674,PCT Misbranch,Residential
+6097172,3rd Party PV,Residential
+5072701,Dual PV,Lease
+3841150,PCT Misbranch,Residential
+5866771,Dual PV,Lease
+5899523,3rd Party PV,Residential
+3896181,Configuration issue,Residential
+5880643,3rd Party PV,Residential
+6141861,3rd Party PV,Residential
+6239794,PCT Misbranch,Residential
+5073770,3rd Party PV,Lease
+2536928,Configuration issue,Residential
+5505440,Dual PV,Residential
+5979922,3rd Party PV,Residential
+4084762,PCT Misbranch,Residential
+6155426,PCT Misbranch,Residential
+1687208,PCT Misbranch,Residential
+5659447,3rd Party PV,Lease
+1566591,PCT Misbranch,Residential
+5707062,Wiring Issue,Residential
+6045408,False Alarm,Lease
+5922862,Dual PV,Lease
+6165186,3rd Party PV,Lease
+2117840,PCT Misbranch,Residential
+6182168,Production issue,Residential
+2158418,3rd Party PV,Residential
+4346185,3rd Party PV,Residential
+5909820,3rd Party PV,Lease
+5574449,PCT Misbranch,Residential
+1872957,PCT Misbranch,Residential
+6088531,Configuration issue,Residential
+6200155,Configuration issue,Lease
+4632060,3rd Party PV,Residential
+3162853,PCT Misbranch,Residential
+6189057,3rd Party PV,Residential
+6227472,Mirroring Issue,Residential
+4901625,3rd Party PV,Lease
+1050317,PCT Misbranch,Residential
+6198718,3rd Party PV,Lease
+5167063,3rd Party PV,Lease
+6025834,CCT Wiring Issue,Residential
+6000570,PCT Issue,Lease
+2437499,PCT Issue,Residential
+1789957,Configuration issue,Residential
+6225852,PCT Misbranch,Residential
+2631112,Configuration issue,Residential
+2816857,3rd Party PV,Residential
+5616791,PCT Issue,Residential
+5995370,PCT Misbranch,Residential
+6215181,Configuration issue,Lease
+5114753,Mirroring Issue,Residential
+6137526,Configuration issue,Residential
+6201742,Mirroring Issue,Residential
+6145313,Configuration issue,Lease
+4637497,3rd Party PV,Lease
+5764850,3rd Party PV,Residential
+1800519,Configuration issue,Residential
+6131945,Configuration issue,Residential
+3574136,Configuration issue,Residential
+5475854,Reverse Polarity Issue,Lease
+1778097,Mirroring Issue,Residential
+6199763,PCT Issue,Residential
+5499626,3rd Party PV,Residential
+6052320,Configuration issue,Lease
+2837901,3rd Party PV,Residential
+6198272,Mirroring Issue,Residential
+6209065,Configuration issue,Lease
+6205923,PCT Issue,Residential
+5627384,Configuration issue,Lease
+804276,Reverse Polarity Issue,Residential
+6055651,Configuration issue,Residential
+4418010,PCT Misbranch,Residential
+5013830,Configuration issue,Residential
+1951156,3rd Party PV,Residential
+6200416,3rd Party PV,Residential
+3241150,Mirroring Issue,Residential
+2232232,PCT Misbranch,Residential
+1764606,CCT Wiring Issue,Residential
+1070589,Reverse Polarity Issue,Residential
+5406288,False Alarm,Lease
+6145232,Mirroring Issue,Residential
+5994005,CCT Wiring Issue,Residential
+3719738,Mirroring Issue,Residential
+6198366,Mirroring Issue,Residential
+5408474,False Alarm,Residential
+6184576,3rd Party PV,Residential
+6195762,3rd Party PV,Residential
+6067110,PCT Misbranch,Residential
+3658313,Configuration issue,Residential
+4220150,Mirroring Issue,Lease
+5991325,Configuration issue,Lease
+6195280,3rd Party PV,Residential
+5976167,Microinverters Issue,Residential
+6193927,Configuration issue,Lease
+2558944,3rd Party PV,Residential
+3482435,3rd Party PV,Residential
+2509402,Mirroring Issue,Residential
+5491594,Mirroring Issue,Residential
+5989122,Mirroring Issue,Residential
+5390407,Dual PV,Lease
+6175846,Configuration issue,Lease
+5911869,3rd Party PV,Lease
+5751868,CCT Wiring Issue,Lease
+5474199,3rd Party PV,Lease
+4004695,3rd Party PV,Residential
+4943272,3rd Party PV,Residential
+5677206,3rd Party PV,Residential
+3495903,Configuration issue,Residential
+3910289,PCT Misbranch,Residential
+6071249,Storage CT Issue,Residential
+6190365,Mirroring Issue,Residential
+6058123,Production issue,Residential
+3772633,3rd Party PV,Residential
+1818795,PCT Misbranch,Residential
+4029522,Mirroring Issue,Residential
+5522939,3rd Party PV,Residential
+5551319,3rd Party PV,Lease
+6058010,3rd Party PV,Residential
+5983503,Dual PV,Residential
+6188123,3rd Party PV,Residential
+6036307,Configuration issue,Lease
+6093786,3rd Party PV,Lease
+6185375,Configuration issue,Residential
+5574195,3rd Party PV,Residential
+4368525,3rd Party PV,Lease
+5974253,Mirroring Issue,Lease
+1861839,PCT Misbranch,Residential
+3782731,CCT Wiring Issue,Residential
+5628563,Configuration issue,Residential
+5094000,Mirroring Issue,Residential
+4826393,Configuration issue,Residential
+5989336,CCT Wiring Issue,Lease
+5990975,208V System Issue,Lease
+2772533,Configuration issue,Residential
+3326118,Mirroring Issue,Residential
+2351552,PCT Misbranch,Residential
+6170699,3rd Party PV,Residential
+5990670,Storage CT Issue,Lease
+3520275,Mirroring Issue,Residential
+5955461,Mirroring Issue,Residential
+6181382,3rd Party PV,Residential
+2357486,Mirroring Issue,Residential
+6165468,Mirroring Issue,Residential
+5758192,Configuration issue,Lease
+2870192,Mirroring Issue,Lease
+6055770,3rd Party PV,Lease
+1725495,Storage Inactive,Residential
+5990614,208V System issue,Lease
+5991918,3rd Party PV,Lease
+2473640,Battery not reporting,Residential
+5872915,Configuration issue,Lease
+2276806,Dual PV,Residential
+5985521,Configuration issue,Residential
+3362428,Dual PV,Residential
+5384734,3rd Party PV,Lease
+5479090,3rd Party PV,Lease
+5517263,3rd Party PV,Residential
+5990689,Configuration issue,Lease
+5977545,3rd Party PV,Residential
+320198,PCT Misbranch,Residential
+5968757,PCT Misbranch,Lease
+5396002,Dual PV,Lease
+5845826,3rd Party PV,Residential
+6166763,Mirroring Issue,Residential
+6134019,Dual PV,Lease
+1288493,PCT Misbranch,Residential
+5468888,Production issue,Lease
+6161714,Mirroring Issue,Residential
+2698890,Dual PV,Residential
+5679302,Dual PV,Lease
+5607051,3rd Party PV,Residential
+3194046,PCT Misbranch,Residential
+2511413,PCT Misbranch,Lease
+5964904,Mirroring Issue,Residential
+729054,PCT Misbranch,Residential
+6137287,3rd Party PV,Lease
+5912613,Mirroring Issue,Residential
+6060211,PCT Issue,Lease
+6113047,PCT Misbranch,Residential
+6146214,Configuration issue,Lease
+4377628,3rd Party PV,Residential
+6155332,3rd Party PV,Residential
+2073796,PCT Misbranch,Residential
+5666256,PCT Misbranch,Lease
+4705818,Dual PV,Residential
+6158192,Mirroring Issue,Residential
+4705185,Mirroring Issue,Residential
+1812934,Configuration issue,Residential
+5840291,PCT Misbranch,Lease
+5530295,PCT Misbranch,Residential
+6155010,3rd Party PV,Residential
+1793405,Configuration issue,Residential
+6124977,3rd Party PV,Residential
+2377205,Configuration issue,Residential
+3712391,3rd Party PV,Residential
+6117062,Production issue,Residential
+5358794,Mirroring Issue,Residential
+1946290,Configuration issue,Residential
+6114410,Mirroring Issue,Residential
+4487250,PCT Misbranch,Residential
+4072786,Mirroring Issue,Residential
+3918602,3rd Party PV,Residential
+3951619,Battery issue,Residential
+1985711,Configuration issue,Residential
+5902087,Configuration issue,Residential
+1891186,PCT Misbranch,Residential
+4516474,PCT Misbranch,Residential
+3749095,3rd Party PV,Residential
+5885676,PCT Misbranch,Residential
+5372564,Mirroring Issue,Residential
+3486037,Configuration issue,Residential
+2289498,PCT Misbranch,Residential
+2604040,PCT Misbranch,Residential
+6064340,CCT Wiring Issue,Lease
+2418777,Mirroring Issue,Residential
+6031769,Configuration issue,Lease
+4428312,Mirroring Issue,Residential
+2582129,Configuration issue,Residential
+3841683,Mirroring Issue,Residential
+2842891,Configuration issue,Residential
+5820722,Mirroring Issue,Residential
+3764317,Configuration issue,Residential
+1786142,Mirroring Issue,Residential
+5963644,Configuration issue,Residential
+38843,Configuration issue,Residential
+6125292,CCT Wiring Issue,Residential
+5739945,3rd Party PV,Lease
+1547597,Dual PV,Residential
+3348092,Configuration issue,Residential
+3302092,3rd Party PV,Residential
+55895,PCT Misbranch,Residential
+3163014,Mirroring Issue,Residential
+5879152,3rd Party PV,Residential
+6070592,Configuration issue,Residential
+6088680,Dual PV,Residential
+3540062,PCT Misbranch,Residential
+5978133,3rd Party PV,Lease
+2269916,PCT Misbranch,Residential
+5792464,3rd Party PV,Residential
+3763724,Dual PV,Residential
+6098753,Dual PV,Residential
+5813705,Configuration issue,Residential
+2831946,Mirroring Issue,Lease
+6095664,Mirroring Issue,Lease
+3448682,PCT Issue,Residential
+5353421,PCT Issue,Residential
+4595709,False Alarm,Lease
+5157114,Dual PV,Lease
+2441121,PCT Misbranch,Residential
+5506572,Configuration issue,Lease
+6009100,False Alarm,Lease
+3887416,3rd Party PV,Residential
+5663966,PCT Misbranch,Residential
+4847662,Configuration issue,Lease
+6094953,3rd Party PV,Lease
+5935481,Mirroring Issue,Residential
+1279039,PCT Misbranch,Residential
+6024976,PCT Misbranch,Residential
+4359933,Configuration issue,Residential
+5741156,Configuration issue,Lease
+5920445,Mirroring Issue,Residential
+2210944,Mirroring Issue,Residential
+4939905,Mirroring Issue,Residential
+4881527,3rd Party PV,Lease
+4312089,Mirroring Issue,Residential
+2287008,Configuration issue,Residential
+5914113,3rd Party PV,Lease
+5934796,Dual PV,Residential
+6067102,Export Issue,Residential
+5635531,CCT Wiring Issue,Residential
+5066435,Configuration issue,Lease
+5127189,Dual PV,Lease
+2362691,CCT Wiring Issue,Lease
+4733787,3rd Party PV,Residential
+2234371,Configuration issue,Residential
+2369912,Configuration issue,Residential
+5730032,3rd Party PV,Residential
+1414557,Configuration issue,Residential
+5311965,3rd Party PV,Residential
+5894021,Configuration issue,Lease
+5771363,Wiring Issue,Lease
+6052346,PCT Misbranch,Residential
+6055882,Mirroring Issue,Lease
+4918666,CCT Wiring Issue,Residential
+2271309,3rd Party PV,Residential
+3637643,3rd Party PV,Residential
+5931005,3rd Party PV,Residential
+4940100,3rd Party PV,Lease
+3345357,Mirroring Issue,Residential
+5336102,3rd Party PV,Residential
+5004996,3rd Party PV,Residential
+5955026,Mirroring Issue,Lease
+6044717,Mirroring Issue,Residential
+6043891,Mirroring Issue,Residential
+5969985,PCT Issue,Residential
+4293791,Storage Inactive,Residential
+3932686,Mirroring Issue,Residential
+5145088,3rd Party PV,Lease
+6036724,Production issue,Lease
+6034991,PCT Issue,Residential
+6030304,Mirroring Issue,Residential
+5443160,3rd Party PV,Lease
+1965488,PCT Misbranch,Residential
+4684271,Configuration issue,Residential
+4777534,PCT Misbranch,Residential
+2418632,Configuration issue,Residential
+2667305,3rd Party PV,Residential
+6016300,3rd Party PV,Residential
+5667944,Dual PV,Residential
+5992819,3rd Party PV,Residential
+6011755,CCT Wiring Issue,Residential
+2279709,Dual PV,Residential
+4531793,False Alarm,Residential
+4719371,3rd Party PV,Residential
+5216210,Dual PV,Lease
+5921833,3rd Party PV,Lease
+2105289,3rd Party PV,Residential
+5603397,208V System issue,Lease
+3908172,Configuration issue,Residential
+5962045,PCT Misbranch,Lease
+4424249,Storage Inactive,Lease
+5193270,Dual PV,Lease
+3162069,3rd Party PV,Residential
+2416031,Mirroring Issue,Residential
+5128024,Dual PV,Lease
+5970155,Mirroring Issue,Residential
+5968082,Dual PV,Residential
+5968770,Mirroring Issue,Residential
+5945056,Dual PV,Residential
+5914493,Configuration issue,Lease
+5595774,Reverse Polarity Issue,Lease
+5949991,Mirroring Issue,Lease
+5941385,CCT Wiring Issue,Residential
+5902474,Configuration issue,Residential
+5939782,Dual PV,Residential
+5932518,Storage CT Issue,Lease
+5465182,Mirroring Issue,Lease
+3373388,Mirroring Issue,Residential
+3118374,PCT Issue,Residential
+4467736,Configuration issue,Residential
+4081086,3rd Party PV,Residential
+5872921,Dual PV,Residential
+5910267,3rd Party PV,Residential
+5893850,Configuration issue,Residential
+3708292,PCT Misbranch,Residential
+5900733,3rd Party PV,Residential
+4382553,3rd Party PV,Residential
+1751356,PCT Misbranch,Residential
+3458101,CCT Wiring Issue,Residential
+5869651,3rd Party PV,Lease
+3818026,PCT Misbranch,Residential
+3272399,Configuration issue,Residential
+4222945,Configuration issue,Residential
+5135312,Mirroring Issue,Residential
+5268117,Configuration issue,Lease
+2492279,Configuration issue,Residential
+5834124,3rd Party PV,Lease
+3611699,Mirroring Issue,Residential
+5763045,Dual PV,Residential
+5687740,PCT Misbranch,Residential
+65449,PCT Misbranch,Residential
+5607985,Dual PV,Residential
+5810171,3rd Party PV,Residential
+5623509,Dual PV,Residential
+3531550,Mirroring Issue,Residential
+5813174,3rd Party PV,Residential
+5532795,Configuration issue,Lease
+5534891,3rd Party PV,Residential
+4901367,CCT Wiring Issue,Residential
+5790699,3rd Party PV,Residential
+5755403,Configuration issue,Residential
+960377,PCT Misbranch,Residential
+5768604,PCT Misbranch,Residential
+5511521,Mirroring Issue,Residential
+5747710,Configuration issue,Residential
+5672481,PCT Misbranch,Residential
+5633580,Configuration issue,Residential
+4653044,CCT Wiring Issue,Lease
+4409422,3rd Party PV,Residential
+5429964,Mirroring Issue,Lease
+5687251,PCT Misbranch,Residential
+3676046,3rd Party PV,Residential
+2047082,Configuration issue,Residential
+5547715,3rd Party PV,Residential
+5654927,3rd Party PV,Residential
+2565253,3rd Party PV,Residential
+5243080,Configuration issue,Residential
+5640500,Mirroring Issue,Residential
+4019547,Configuration issue,Residential
+2013172,PCT Misbranch,Residential
+2833266,PCT Misbranch,Residential
+3323402,3rd Party PV,Residential
+2678003,3rd Party PV,Residential
+2533561,PCT Misbranch,Residential
+2372598,3rd Party PV,Residential
+4970749,3rd Party PV,Lease
+1510981,PCT Misbranch,Residential
+2519906,CCT Wiring Issue,Residential
+5509066,3rd Party PV,Residential
+5538326,Mirroring Issue,Lease
+5473818,PCT Misbranch,Residential
+4769719,Mirroring Issue,Lease
+4593065,Wiring Issue,Residential
+3763574,Configuration issue,Residential
+5328146,PCT Misbranch,Lease
+5390978,Mirroring Issue,Residential
+5385486,Configuration issue,Lease
+4760578,Dual PV,Lease
+3411502,Mirroring Issue,Residential
+4927417,Mirroring Issue,Residential
+126694,PCT Misbranch,Residential
+4700373,Mirroring Issue,Residential
