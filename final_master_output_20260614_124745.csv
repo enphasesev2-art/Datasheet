@@ -56,3 +56,4 @@ Site ID,Cases,Site Name,System Status,Gateway Severity,Gateway RCA,Gateway Seria
 4970749,17304667,Rita Chavez,Normal,No Severity,Normal,2.02E+11,TRUE,No RMA,06/14/2026 12:27:40,06/14/2026 12:17:31,0,2423,2,0,97,No Severity,Normal,NO SEVERITY,NORMAL,NO SEVERITY,NORMAL,Normal,No Severity,Healthy,No Severity,None,Healthy,Normal,Healthy,No action required,
 5509066,#N/A,Julissa Garcia Ag system,Normal,No Severity,Normal,2.02E+11,TRUE,No RMA,06/14/2026 12:46:10,06/14/2026 12:45:00,0,9471,35,0,246,No Severity,Normal,SEV 2,CONFIGURATION ISSUE,SEV 3,FEW MICROS DOWN,Normal,No Severity,Healthy,SEV 2,CT Team,Consumption CT,CONFIGURATION ISSUE,CONFIGURATION ISSUE,No CT issue detected,
 4760578,16759486,Cheryl Smith,Meter Issue,No Severity,Normal,2.02E+11,TRUE,No RMA,06/14/2026 12:49:21,06/14/2026 12:44:01,0,7532,23,0,96,No Severity,Normal,SEV 2,DUAL PV,NO SEVERITY,NORMAL,Normal,No Severity,Healthy,SEV 2,CT Team,Consumption CT,DUAL PV,DUAL PV,No CT issue detected,
+5486849,
